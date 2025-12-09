@@ -1,0 +1,6 @@
+@use 'var' as v;
+%hover-color-black {
+    &:hover {
+        color: black;
+    }
+}
